@@ -1,2 +1,10 @@
 *-checkpoint.*
 pptx/*.pptx
+.ipynb_checkpoints/data-payload-checkpoint
+chroma_db/chroma.sqlite3
+data-payload
+model-artifact-cfa38f57-4fa4-4b61-a3a2-fbe90104022d/model.h5
+model-artifact-cfa38f57-4fa4-4b61-a3a2-fbe90104022d/output_schema.json
+model-artifact-cfa38f57-4fa4-4b61-a3a2-fbe90104022d/runtime.yaml
+model-artifact-cfa38f57-4fa4-4b61-a3a2-fbe90104022d/score.py
+model-artifact-cfa38f57-4fa4-4b61-a3a2-fbe90104022d/test_json_output.json
